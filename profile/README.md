@@ -20,7 +20,7 @@ Academic Door 致力于建设可靠、可检索、可复用的经济学学术公
 | [Academic Door 主页](https://academic-door.github.io/) | 品牌入口与项目导航 | 持续建设 |
 | [NBER Working Papers CN](https://academic-door.github.io/nber-working-papers-cn/) | NBER 周报、月报、中英文摘要、归档与检索 | 运行中 |
 | [Econ Papers Daily](https://academic-door.github.io/econ-paper-monitor/) | 每日经济学论文与工作论文监测 | 运行中 |
-| [Academic Door Journals](https://github.com/academic-door/journals) | TOP5、Field Journals、统一期刊数据引擎与 Composer | 启动建设 |
+| [Academic Door Journals](https://academic-door.github.io/journals/) | TOP5、Field Journals、统一期刊数据引擎与 Composer | 运行中 |
 
 ## 建设原则
 
